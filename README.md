@@ -1,3 +1,3 @@
 # demo
 Practice GIT Repos
-Author- Sphoorti
+Author- Sphoorti Patil
